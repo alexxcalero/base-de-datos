@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="TRAb_FINAL" id="75B7D5D1-16C8-B2D3-B78D-AC18AF4EDF3B" version="3.5">
+<createdBy>isma</createdBy>
+<createdTime>2023-02-22 06:12:11 UTC</createdTime>
+<ownerDesignName>TRAb_FINAL</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>75B7D5D1-16C8-B2D3-B78D-AC18AF4EDF3B</designId>
+</OSDM_Design>
